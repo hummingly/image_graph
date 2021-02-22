@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "strict": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUnusedParameters": true,
+        "removeComments": true
+    },
+    "compileOnSave": true,
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+}
